@@ -1,6 +1,6 @@
 import { useState, useEffect, Fragment } from 'react'
 import { NAV_ITEMS } from '../data/index.js'
-import resumePdf from '../Parthresume.pdf'
+import resumePdf from '../ParthResume.pdf'
 
 export default function NavBar({ active, setActive }) {
   const [scrolled, setScrolled] = useState(false)
