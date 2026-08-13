@@ -6,7 +6,7 @@ export const TITLES = [
   'Java Full-Stack Developer',
   'Spring Boot Specialist',
   'Backend Engineer (Java)',
-  'API & Microservices Developer',
+
 ];
 
 // ── Stats strip ─────────────────────────────────────────────
